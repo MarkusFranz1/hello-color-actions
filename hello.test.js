@@ -4,4 +4,3 @@ describe("My hello", () => {
     expect(hello.hello()).toEqual("Hello World from Germany");
   });
 });
-Update: Changed Hello World from the Office Hours in the terminal! message to 'Hello World from Germany'
